@@ -38,7 +38,7 @@
    </size>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QLineEdit" name="lineEdit">
+   <widget class="QLineEdit" name="timeGomogenEdit">
     <property name="geometry">
      <rect>
       <x>200</x>
@@ -47,8 +47,11 @@
       <height>31</height>
      </rect>
     </property>
+    <property name="toolTip">
+     <string/>
+    </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit_2">
+   <widget class="QLineEdit" name="timeHoldPlatoEdit">
     <property name="geometry">
      <rect>
       <x>200</x>
@@ -58,7 +61,7 @@
      </rect>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit_3">
+   <widget class="QLineEdit" name="timePlatoToothUpEdit">
     <property name="geometry">
      <rect>
       <x>200</x>
@@ -68,7 +71,7 @@
      </rect>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit_4">
+   <widget class="QLineEdit" name="timePlatoToothBottomEdit">
     <property name="geometry">
      <rect>
       <x>200</x>
@@ -78,7 +81,7 @@
      </rect>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit_5">
+   <widget class="QLineEdit" name="speedDropEdit">
     <property name="geometry">
      <rect>
       <x>200</x>
@@ -193,7 +196,7 @@
      </rect>
     </property>
    </widget>
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="calculationButton">
     <property name="geometry">
      <rect>
       <x>250</x>
@@ -206,7 +209,7 @@
      <string>Вычеслить дату конца роста</string>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit_6">
+   <widget class="QLineEdit" name="counToothEdit">
     <property name="geometry">
      <rect>
       <x>550</x>
@@ -216,7 +219,7 @@
      </rect>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit_7">
+   <widget class="QLineEdit" name="tempGomogenEdit">
     <property name="geometry">
      <rect>
       <x>550</x>
@@ -264,7 +267,7 @@
      <enum>Qt::AutoText</enum>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit_8">
+   <widget class="QLineEdit" name="tempExtractEdit">
     <property name="geometry">
      <rect>
       <x>550</x>
@@ -293,7 +296,7 @@
      <enum>Qt::AutoText</enum>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit_9">
+   <widget class="QLineEdit" name="tempPlatoToothUpEdit">
     <property name="geometry">
      <rect>
       <x>550</x>
@@ -303,7 +306,7 @@
      </rect>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit_10">
+   <widget class="QLineEdit" name="tempPlatoToothBottomEdit">
     <property name="geometry">
      <rect>
       <x>550</x>
@@ -351,7 +354,7 @@
      <enum>Qt::AutoText</enum>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit_11">
+   <widget class="QLineEdit" name="tempCritMomentEdit">
     <property name="geometry">
      <rect>
       <x>570</x>
