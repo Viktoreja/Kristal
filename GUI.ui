@@ -6,19 +6,19 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>720</width>
+    <width>730</width>
     <height>610</height>
    </rect>
   </property>
   <property name="minimumSize">
    <size>
-    <width>720</width>
+    <width>730</width>
     <height>610</height>
    </size>
   </property>
   <property name="maximumSize">
    <size>
-    <width>720</width>
+    <width>730</width>
     <height>610</height>
    </size>
   </property>
@@ -212,7 +212,7 @@
    <widget class="QLineEdit" name="counToothEdit">
     <property name="geometry">
      <rect>
-      <x>550</x>
+      <x>570</x>
       <y>70</y>
       <width>151</width>
       <height>31</height>
@@ -222,7 +222,7 @@
    <widget class="QLineEdit" name="tempGomogenEdit">
     <property name="geometry">
      <rect>
-      <x>550</x>
+      <x>570</x>
       <y>30</y>
       <width>151</width>
       <height>31</height>
@@ -270,7 +270,7 @@
    <widget class="QLineEdit" name="tempExtractEdit">
     <property name="geometry">
      <rect>
-      <x>550</x>
+      <x>570</x>
       <y>190</y>
       <width>151</width>
       <height>31</height>
@@ -299,7 +299,7 @@
    <widget class="QLineEdit" name="tempPlatoToothUpEdit">
     <property name="geometry">
      <rect>
-      <x>550</x>
+      <x>570</x>
       <y>110</y>
       <width>151</width>
       <height>31</height>
@@ -309,7 +309,7 @@
    <widget class="QLineEdit" name="tempPlatoToothBottomEdit">
     <property name="geometry">
      <rect>
-      <x>550</x>
+      <x>570</x>
       <y>150</y>
       <width>151</width>
       <height>31</height>
@@ -357,7 +357,7 @@
    <widget class="QLineEdit" name="tempCritMomentEdit">
     <property name="geometry">
      <rect>
-      <x>570</x>
+      <x>590</x>
       <y>230</y>
       <width>131</width>
       <height>31</height>
@@ -451,7 +451,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>720</width>
+     <width>730</width>
      <height>21</height>
     </rect>
    </property>
